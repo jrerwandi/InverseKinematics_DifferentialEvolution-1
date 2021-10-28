@@ -10,6 +10,8 @@ inverse kinematics 4 DOF using the differential Evolution optimization method
 4. numpy
 
 ## How to Use?
+```
 git clone https://github.com/BarelangFC/InverseKinematics_DifferentialEvolution
 cd InverseKinematics_DifferentialEvolution
 python3 IK_Arm
+```
