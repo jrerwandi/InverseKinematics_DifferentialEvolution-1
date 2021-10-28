@@ -1,8 +1,7 @@
 # InverseKinematics_DifferentialEvolution
 inverse kinematics 4 DOF using the differential Evolution optimization method 
+
 ![This is an image](https://github.com/BarelangFC/InverseKinematics_DifferentialEvolution/blob/main/Figure_1.png)
-
-
 
 # Requirement
 1. Python 3
