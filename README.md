@@ -14,5 +14,5 @@ inverse kinematics 4 DOF using the differential Evolution optimization method
 git clone https://github.com/BarelangFC/InverseKinematics_DifferentialEvolution
 cd InverseKinematics_DifferentialEvolution
 cd sources
-python3 IK_Arm
+python3 IK_Arm.py
 ```
